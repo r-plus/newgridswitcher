@@ -1,7 +1,7 @@
 Package: pro.relative.newgridswitcher
 Name: NewGridSwitcher
 Depends: mobilesubstrate
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: A grid switcher on iOS 11 and above
 Maintainer: Relative <relative@outlook.ie>
